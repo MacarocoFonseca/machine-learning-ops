@@ -1,4 +1,4 @@
-# MLOps Zoomcamp
+# Welcome to MLOps !
 
 <p align="center">
   <a href="https://airtable.com/shrCb8y6eTbPKwSTL" target="_blank">
@@ -17,7 +17,7 @@ Our MLOps Zoomcamp course
 - Join the [`#course-mlops-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C02R98X7DS9) channel
 - [Tweet about the course!](https://ctt.ac/fH67W)
 - Start watching course videos! [Course playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
-- [Technical FAQ](https://docs.google.com/document/d/12TlBfhIiKtyBv8RnsoJR6F72bkPDGEvPOItJIxaEzE0/edit) 
+- [Technical FAQ](https://docs.google.com/document/d/12TlBfhIiKtyBv8RnsoJR6F72bkPDGEvPOItJIxaEzE0/edit)
 - For announcements, join our [Telegram channel](https://t.me/dtc_courses)
 
 
@@ -54,7 +54,7 @@ Data scientists and ML engineers. Also software engineers and data engineers int
 
 * Python
 * Docker
-* Being comfortable with command line 
+* Being comfortable with command line
 * Prior exposure to machine learning (at work or from other courses, e.g. from [ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp))
 * Prior programming experience (at least 1+ year)
 
@@ -151,7 +151,7 @@ To make discussions in Slack more organized:
 ## Instructors
 
 - Cristian Martinez
-- Jeff Hale 
+- Jeff Hale
 - Alexey Grigorev
 - Emeli Dral
 - Sejal Vaidya
@@ -192,7 +192,7 @@ If you want to make sure you don't miss anything:
 
 No and yes. There will be two parts:
 
-* Lectures: Pre-recorded, you can watch them when it's convenient for you. 
+* Lectures: Pre-recorded, you can watch them when it's convenient for you.
 * Office hours: Live on Mondays (17:00 CET), but recorded, so you can watch later.
 
 
@@ -220,6 +220,3 @@ Thanks to the course sponsors for making it possible to create this course
     <img height="100" src="https://datatalks.club/images/partners/wandb-abb.svg">
   </a>
 </p>
-
-
-
