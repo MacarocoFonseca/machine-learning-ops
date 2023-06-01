@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "machine-learning-ops"
+version = "0.1.0"
+description = ""
+authors = ["Tomas Fonseca <tdafonseca@schubergphilis.com>"]
+readme = "README.md"
+packages = [{include = "machine_learning_ops"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+jupyter = "^1.0.0"
+notebook = "^6.5.4"
+pandas = "^2.0.2"
+ipykernel = "^6.23.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,6 +1,29 @@
 # Welcome to MLOps !
 ## Overview
 
+### Poetry Commands
+Run the following command line to start using Poetry:
+1-Clean Cache
+```commandline
+poetry cache clear --all pypi
+```
+2-Update poetry
+```commandline
+poetry self update
+```
+3-Activate virtual environment
+```commandline
+poetry shell
+```
+4-Run jupyter notebooks, note when you run the following command it does implicitly activate the virtual environment
+```commandline
+poetry run jupyter notebook
+```
+5- Add dependency
+```commandline
+poetry add <package>
+```
+
 ## Syllabus
 
 ### [Module 1: Introduction](01-intro)
